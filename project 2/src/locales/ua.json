@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "home": "Головна сторінка",
+    "contacts": "Контакти"
+  },
+  "ActionFiles": {
+    "login": "Login",
+    "logout": "Вийти",
+    "addTask": "Додати задачу"
+  },
+  "buttons": {
+    "login": "Увійти з Google",
+    "logout": "Вийти"
+  }
+}

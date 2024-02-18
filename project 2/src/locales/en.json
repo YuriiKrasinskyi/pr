@@ -1,0 +1,15 @@
+{
+  "menu": {
+    "home": "Home page",
+    "contacts": "Contacts page"
+  },
+  "ActionFiles": {
+    "login": "Login",
+    "logout": "Logout",
+    "addTask": "Add task"
+  },
+  "buttons": {
+    "login": "Login with Google",
+    "logout": "logout"
+  }
+}
